@@ -62,7 +62,7 @@
     "enzyme-adapter-react-15": "^1.0.5",
     "enzyme-to-json": "^3.3.0",
     "font-awesome": "^4.7.0",
-    "font-mfizz": "^2.4.1",
+    "font-mfizz": "git://github.com/Evan-TwinHats/font-mfizz.git",
     "get-stream": "^4.0.0",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^7.0.0",
