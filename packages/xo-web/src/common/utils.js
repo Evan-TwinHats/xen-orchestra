@@ -185,6 +185,7 @@ export const noop = () => {}
 export const osFamily = invoke(
   {
     centos: ['centos'],
+    rocky: ['rocky'],
     debian: ['debian'],
     docker: ['coreos'],
     fedora: ['fedora'],
