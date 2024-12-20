@@ -1141,6 +1141,10 @@
     @extend .fa;
     @extend .icon-centos;
   }
+  &-rocky {
+    @extend .fa;
+    @extend .icon-rocky;
+  }
   &-debian {
     @extend .fa;
     @extend .icon-debian;
